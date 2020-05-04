@@ -1,4 +1,7 @@
-
+/**
+*
+* visto dal prof Gervasi
+*/
 public class Pokemon {
 
 	private String nome,sprite,mossa1,mossa2,tipoMossa1,tipoMossa2,tipoPokemon;
